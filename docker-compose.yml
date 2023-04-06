@@ -1,0 +1,41 @@
+version: "3.9"
+
+services:
+  frontend:
+    image: glg-local-dev-support-candidate-app
+    network_mode: bridge
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    stdin_open: true
+    ports:
+      - "3031:3031"
+    command: npm run dev:client
+    env_file:
+      - etc/dev.env
+      - etc/dev.local.env
+    links:
+      - backend
+    extra_hosts:
+      - local.dev.glgresearch.com:host-gateway
+
+  backend:
+    image: glg-local-dev-support-candidate-app
+    network_mode: bridge
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    ports:
+      - "9091:9091"
+    command: npm run dev:server
+    env_file:
+      - etc/dev.env
+      - etc/dev.local.env
+    extra_hosts:
+      - local.dev.glgresearch.com:host-gateway
