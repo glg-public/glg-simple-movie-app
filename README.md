@@ -26,7 +26,7 @@ The GLG Movie App consists of the following tables
 
 ### MEDIA
 
-| MEDIA_ID | MEDIA_NAME   | MOVIE_TYPE_ID | DESCRIPTION               | RELEASE_DATE |
+| MEDIA_ID | MEDIA_NAME   | MEDIA_TYPE_ID | DESCRIPTION               | RELEASE_DATE |
 | -------- | ------------ | ------------- | ------------------------- | ------------ |
 | 90583    | Forrest Gump | 1             | Loremm ipsum...           | 1994-06-23   |
 | 47283    | Seinfield    | 2             | Donec finibus pulvinar... | 1989-07-05   |
