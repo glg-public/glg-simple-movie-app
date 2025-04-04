@@ -1,0 +1,180 @@
+{
+  "adult": false,
+  "backdrop_path": "/wVGiwvE5CtlVPrP0oEO3W70ft6D.jpg",
+  "created_by": [
+    {
+      "id": 57993,
+      "credit_id": "64e4fac506f98400eb5e1de1",
+      "name": "Michael Connelly",
+      "original_name": "Michael Connelly",
+      "gender": 2,
+      "profile_path": "/Ad8At6nf4XWtVnOPbF8ceRTRMnQ.jpg"
+    },
+    {
+      "id": 1753443,
+      "credit_id": "64e4fad106f98400eb5e1de5",
+      "name": "Tom Bernardo",
+      "original_name": "Tom Bernardo",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 69983,
+      "credit_id": "64e4fad75258ae00c94a9066",
+      "name": "Eric Overmyer",
+      "original_name": "Eric Overmyer",
+      "gender": 2,
+      "profile_path": "/bHKUsOyJK4rzADv02bHsyODHZKG.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2022-05-05",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B09PQPSX34/",
+  "id": 153657,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-03-27",
+  "last_episode_to_air": {
+    "id": 5966805,
+    "name": "Whippoorwills",
+    "overview": "Chandler and her team do damage control after the debate. Maddie and Vasquez zero in on the loot from the robberies. Bosch answers to the grand jury. Robertson and Lopez bring Preston Borders to LA to testify.",
+    "vote_average": 8,
+    "vote_count": 2,
+    "air_date": "2025-03-27",
+    "episode_number": 4,
+    "episode_type": "standard",
+    "production_code": "BSOS 304",
+    "runtime": 47,
+    "season_number": 3,
+    "show_id": 153657,
+    "still_path": "/ncP8nfH9B45KnqNiiuC6LCGt6Nd.jpg"
+  },
+  "name": "Bosch: Legacy",
+  "next_episode_to_air": {
+    "id": 5966806,
+    "name": "F***ing Politics",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-04-03",
+    "episode_number": 5,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 153657,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 1024,
+      "logo_path": "/w7HfLNm9CWwRmAMU58udl2L7We7.png",
+      "name": "Prime Video",
+      "origin_country": ""
+    },
+    {
+      "id": 5865,
+      "logo_path": "/n0hqN6lKlBENn9WAbSC2WwHRPnS.png",
+      "name": "Amazon Freevee",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 30,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Bosch: Legacy",
+  "overview": "Bosch is now making a living as a private investigator two years after he quit the LAPD and finds himself working with one time enemy and top-notch attorney Honey “Money” Chandler. Meanwhile, Bosch's daughter Maddie is venturing into the world of the LAPD.",
+  "popularity": 24.6365,
+  "poster_path": "/ge5gFKCO6m7MuGyjwjoGvqo2q2m.jpg",
+  "production_companies": [
+    {
+      "id": 103593,
+      "logo_path": null,
+      "name": "Hieronymus Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 48640,
+      "logo_path": null,
+      "name": "Fabrik Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 20580,
+      "logo_path": "/oRR9EXVoKP9szDkVKlze5HVJS7g.png",
+      "name": "Amazon Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/d6HwljzlOzxJ4tXlrpRkNZaZMWL.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-05-05",
+      "episode_count": 10,
+      "id": 236268,
+      "name": "Season 1",
+      "overview": "Bosch's first job calls him to the estate of ailing billionaire Whitney Vance, where he is tasked with finding Vance’s only potential heir. Along the way, Bosch finds himself clashing with powerful figures who have a vested interest in the heir not being found. Bosch finds an invaluable resource in Maurice “Mo” Bassi, a tech-forward gadget whiz who also shares Bosch’s fondness for smooth jazz and commitment to justice.",
+      "poster_path": "/9Z7L7wSB6nLwWk7coUgm1ytQbOB.jpg",
+      "season_number": 1,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2023-10-18",
+      "episode_count": 10,
+      "id": 339338,
+      "name": "Season 2",
+      "overview": "Bosch and Chandler work together to seek out a killer who just might find them first. As a result of being kidnapped by a masked assailant, Maddie Bosch's law enforcement career hangs in the balance. While they hunt for Maddie, the FBI scrutinizes Carl Rogers' murder and places Bosch and Chandler under suspicion.",
+      "poster_path": "/jaBQkpjXw0wtbAFLJ23SKFc6fa8.jpg",
+      "season_number": 2,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2025-03-27",
+      "episode_count": 10,
+      "id": 421106,
+      "name": "Season 3",
+      "overview": "In season 3, the murder investigation of Kurt Dockweiler brings dangerous secrets to light and threatens to ruin the lives of our three principal characters. The disappearance of a family haunts Harry Bosch and forces him to confront the limits of justice. In a hotly contested race, Honey \"Money\" Chandler is poised to become the next District Attorney of Los Angeles. And Maddie Bosch gets entangled in a series of violent follow-home robberies.",
+      "poster_path": "/8bKIluru7tfWEwnJnWuX0CeeLNn.jpg",
+      "season_number": 3,
+      "vote_average": 8
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "The sun is setting on the epic saga.",
+  "type": "Scripted",
+  "vote_average": 7.9,
+  "vote_count": 172
+}

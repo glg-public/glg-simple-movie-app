@@ -18,7 +18,6 @@ export interface Movie {
   original_name: string;
   overview: string;
   popularity: number;
-  poster?: string;
   poster_path: string;
   vote_average: number;
   vote_count: number;

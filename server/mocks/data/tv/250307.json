@@ -1,0 +1,128 @@
+{
+  "adult": false,
+  "backdrop_path": "/tPwu4l50aBHgb8NqF25cgaClsox.jpg",
+  "created_by": [
+    {
+      "id": 1227308,
+      "credit_id": "66bd81c58a8da4fd9d4cd1dc",
+      "name": "R. Scott Gemmill",
+      "original_name": "R. Scott Gemmill",
+      "gender": 2,
+      "profile_path": "/yhZV8Yl3ToOlNxsNCIQ20BiVN4K.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-01-09",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.max.com/shows/the-pitt/e6e7bad9-d48d-4434-b334-7c651ffc4bdf",
+  "id": 250307,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-03-27",
+  "last_episode_to_air": {
+    "id": 5829278,
+    "name": "7:00 P.M.",
+    "overview": "As the night shift begins and the death toll rises, Robby refuses to give up on a mass casualty victim – even after Abbott intervenes. Unable to find an attending, Santos and Samira each attempt risky moves to save their patients’ lives.",
+    "vote_average": 10,
+    "vote_count": 2,
+    "air_date": "2025-03-27",
+    "episode_number": 13,
+    "episode_type": "standard",
+    "production_code": "T76.10113",
+    "runtime": 44,
+    "season_number": 1,
+    "show_id": 250307,
+    "still_path": "/oejuSVzSzg8OV6fgRRafDmWmyOq.jpg"
+  },
+  "name": "The Pitt",
+  "next_episode_to_air": {
+    "id": 5829279,
+    "name": "8:00 P.M.",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-04-03",
+    "episode_number": 14,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 250307,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 6783,
+      "logo_path": "/rAb4M1LjGpWASxpk6Va791A7Nkw.png",
+      "name": "Max",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 15,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Pitt",
+  "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+  "popularity": 26.2849,
+  "poster_path": "/6fMGktEDXMZZPACJ5cWkVQ6TSte.jpg",
+  "production_companies": [
+    {
+      "id": 1512,
+      "logo_path": null,
+      "name": "John Wells Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1957,
+      "logo_path": "/qIxtba5CbnJfHCA88czLfTNKW9M.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 249723,
+      "logo_path": null,
+      "name": "R. Scott Gemmill Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-01-09",
+      "episode_count": 15,
+      "id": 385657,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/aUToQQgvLQAqpUcVI9xls1glJM1.jpg",
+      "season_number": 1,
+      "vote_average": 8.1
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "15 episodes. 15 hours. 1 shift.",
+  "type": "Scripted",
+  "vote_average": 8.4,
+  "vote_count": 78
+}

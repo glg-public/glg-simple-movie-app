@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": "/dGULFnPJKPh0sdu3F64YmQ0qcym.jpg",
+  "belongs_to_collection": null,
+  "budget": 23800000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.focusfeatures.com/last-breath/",
+  "id": 972533,
+  "imdb_id": "tt14403504",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Last Breath",
+  "overview": "Last Breath follows a seasoned deep-sea diver as he battles the raging elements to rescue his crewmate trapped hundreds of feet below the ocean's surface.",
+  "popularity": 45.3298,
+  "poster_path": "/w04Xg5Bnqj7ECdCxTsHgqK6AtJW.jpg",
+  "production_companies": [
+    {
+      "id": 1786,
+      "logo_path": "/dVSnNBwhb0WW5zGis3HjI6Q66Gp.png",
+      "name": "Dark Castle Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 162036,
+      "logo_path": "/ebqgHFWoL5uH3GvZJtVdbUNq5nn.png",
+      "name": "MetFilm Production",
+      "origin_country": "GB"
+    },
+    {
+      "id": 210227,
+      "logo_path": null,
+      "name": "Longshot Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 112733,
+      "logo_path": "/fjWc1qJw7Th2PtWRq0NvDcx0m8c.png",
+      "name": "Floating Harbour",
+      "origin_country": "GB"
+    },
+    {
+      "id": 7493,
+      "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+      "name": "FilmNation Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 247773,
+      "logo_path": null,
+      "name": "Thing 44",
+      "origin_country": "GB"
+    },
+    {
+      "id": 125584,
+      "logo_path": "/56Lrmj9izLx7SEa0uPp0fVvssea.png",
+      "name": "Aperture Media Partners",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-02-27",
+  "revenue": 14875844,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Make every breath count.",
+  "title": "Last Breath",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 101
+}

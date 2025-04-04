@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/6dC7ULfiutxwEAs7LjWHL2Tc7Zv.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.neonrated.com/film/the-monkey",
+  "id": 1124620,
+  "imdb_id": "tt27714946",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Monkey",
+  "overview": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.",
+  "popularity": 96.9851,
+  "poster_path": "/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg",
+  "production_companies": [
+    {
+      "id": 76907,
+      "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+      "name": "Atomic Monster",
+      "origin_country": "US"
+    },
+    {
+      "id": 184518,
+      "logo_path": "/lOouI8ibBzhLI4qvku74FPUVT8t.png",
+      "name": "C2 Motion Picture Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 167684,
+      "logo_path": "/kzQwU2H6woBFti9cqjr9BrVXrst.png",
+      "name": "Range Media Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 85465,
+      "logo_path": "/oxx1bmXDQxeBsvYZmCxMtfJ5wa3.png",
+      "name": "Oddfellows Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 11565,
+      "logo_path": "/S74cHHbIrdmb5M51Pft72Uo9Gz.png",
+      "name": "The Safran Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 169756,
+      "logo_path": "/fGjWUCSz9MaMgx8VvxKQuNmIbYu.png",
+      "name": "Stars Collective",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-02-14",
+  "revenue": 63930956,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everybody dies. And that's fucked up.",
+  "title": "The Monkey",
+  "video": false,
+  "vote_average": 6,
+  "vote_count": 327
+}

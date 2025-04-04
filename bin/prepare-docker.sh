@@ -10,5 +10,3 @@ for cmd in base64 docker; do
   fi
 done
 
-# Needed by docker-compose for running locally.
-touch etc/dev.local.env

@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://a24films.com/films/heretic",
+  "id": 1138194,
+  "imdb_id": "tt28015403",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Heretic",
+  "overview": "Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed, becoming ensnared in his deadly game of cat-and-mouse.",
+  "popularity": 38.5344,
+  "poster_path": "/fr96XzlzsONrQrGfdLMiwtQjott.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 133303,
+      "logo_path": "/nZzVZZIXkyjb9omN7uiIzOIxgGw.png",
+      "name": "Beck/Woods",
+      "origin_country": "US"
+    },
+    {
+      "id": 168415,
+      "logo_path": null,
+      "name": "Shiny Penny Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 150758,
+      "logo_path": "/hYDtgClCwBnHLN74g2afEAud1El.png",
+      "name": "CatchLight Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-31",
+  "revenue": 51913394,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Question everything.",
+  "title": "Heretic",
+  "video": false,
+  "vote_average": 7.081,
+  "vote_count": 1457
+}

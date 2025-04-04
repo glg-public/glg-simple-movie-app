@@ -13,32 +13,37 @@ You should be able to load both the listing view
 And the details view.  
 <img src="https://user-images.githubusercontent.com/1521814/225240421-ae3ae260-4b04-4828-8998-8587380e94fd.png" width="600"/>
 
+## Trouble Shooting
+
+Some candidates have had issues with their ISPs like Jio Fiber blocking access to the [Site]([https://www.themoviedb.org/) that this app uses for it's external API.
+If you can not load the https://www.themoviedb.org/. You can set the VITE_MOCK_RESULTS enviornment variable to true to enable mockServiceWorker
+
 ## Database Tables
 
 The GLG Movie App consists of the following tables
 
-### MEDIA TYPE
+#### MEDIA TYPE
 
 | MEDIA_TYPE_ID | MEDIA_TYPE |
 | ------------- | ---------- |
 | 1             | Movie      |
 | 2             | TV Show    |
 
-### MEDIA
+#### MEDIA
 
-| MEDIA_ID | MEDIA_NAME   | MEDIA_TYPE_ID | DESCRIPTION               | RELEASE_DATE |
+| MEDIA_ID | MEDIA_NAME   | MOVIE_TYPE_ID | DESCRIPTION               | RELEASE_DATE |
 | -------- | ------------ | ------------- | ------------------------- | ------------ |
 | 90583    | Forrest Gump | 1             | Loremm ipsum...           | 1994-06-23   |
 | 47283    | Seinfield    | 2             | Donec finibus pulvinar... | 1989-07-05   |
 
-### USER
+#### USER
 
 | USER_ID | NAME    | CREATE_DATE |
 | ------- | ------- | ----------- |
 | 6854    | Matthew | 2021-03-18  |
 | 5748    | Susan   | 2023-02-05  |
 
-### USER_MEDIA_WATCHED_RELATION
+#### USER_MEDIA_WATCHED_RELATION
 
 | USER_ID | MEDIA_ID | CREATE_DATE |
 | ------- | -------- | ----------- |

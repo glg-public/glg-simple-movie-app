@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/3xN4vNPWBSVDsiiOzL5sB95Sa1J.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.amazon.com/gp/video/detail/B0CTMHHCL7",
+  "id": 257094,
+  "imdb_id": "tt3045628",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Holland",
+  "overview": "Nancy, a teacher whose life with her husband in Holland, Michigan, tumbles into a twisted tale when she and her colleague become suspicious of a secret.",
+  "popularity": 215.8281,
+  "poster_path": "/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg",
+  "production_companies": [
+    {
+      "id": 210099,
+      "logo_path": "/d6HwljzlOzxJ4tXlrpRkNZaZMWL.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 32537,
+      "logo_path": "/7fUmRWUJgO4grf61sPMmc4kVYVR.png",
+      "name": "Blossom Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 84988,
+      "logo_path": "/rzpfuMEMDQnmqp0YTFMEqgfDrxY.png",
+      "name": "42",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-03-27",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some things only look perfect.",
+  "title": "Holland",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 125
+}

@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/5zz7MfcUhYpxT6AaNyUF7jwOmKh.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://a24films.com/films/opus",
+  "id": 1202479,
+  "imdb_id": "tt29929565",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Opus",
+  "overview": "A young writer is invited to the remote compound of a legendary pop star who mysteriously disappeared thirty years ago. Surrounded by the star's cult of sycophants and intoxicated journalists, she finds herself in the middle of his twisted plan.",
+  "popularity": 3.6031,
+  "poster_path": "/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 106839,
+      "logo_path": "/uUIoRabgmUH5VYSXs02bgjO92no.png",
+      "name": "Makeready",
+      "origin_country": "US"
+    },
+    {
+      "id": 79426,
+      "logo_path": "/8aEC7xem9YwHNCDojSFEPQgoFC3.png",
+      "name": "MACRO",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-03-13",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A once-in-a-lifetime experience.",
+  "title": "Opus",
+  "video": false,
+  "vote_average": 5.3,
+  "vote_count": 30
+}

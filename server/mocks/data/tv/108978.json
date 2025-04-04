@@ -1,0 +1,148 @@
+{
+  "adult": false,
+  "backdrop_path": "/voKEhzb4ExOmR0WSvQgLTTqRUEu.jpg",
+  "created_by": [
+    {
+      "id": 78417,
+      "credit_id": "5f54f833713ed40036eed3e7",
+      "name": "Nick Santora",
+      "original_name": "Nick Santora",
+      "gender": 2,
+      "profile_path": "/iipP9fTQhRuPJHFMhbpMCceBiiu.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2022-02-03",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B09ML1ZF3D",
+  "id": 108978,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-03-27",
+  "last_episode_to_air": {
+    "id": 5818659,
+    "name": "Unfinished Business",
+    "overview": "Reacher finally faces off with both Paulie and Quinn.",
+    "vote_average": 8.4,
+    "vote_count": 15,
+    "air_date": "2025-03-27",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "RCHR 308",
+    "runtime": 52,
+    "season_number": 3,
+    "show_id": 108978,
+    "still_path": "/y0LEFFyCAZqZPM7zggm4KysdF2h.jpg"
+  },
+  "name": "Reacher",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1024,
+      "logo_path": "/w7HfLNm9CWwRmAMU58udl2L7We7.png",
+      "name": "Prime Video",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 24,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Reacher",
+  "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+  "popularity": 234.0503,
+  "poster_path": "/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
+  "production_companies": [
+    {
+      "id": 20580,
+      "logo_path": "/oRR9EXVoKP9szDkVKlze5HVJS7g.png",
+      "name": "Amazon Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 87731,
+      "logo_path": "/8PeKdSO13vYTod2HAJsV2m7mRr0.png",
+      "name": "Skydance Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 228633,
+      "logo_path": "/of4mmVt6egYaO9oERJbuUxMOTkj.png",
+      "name": "Paramount Television Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/d6HwljzlOzxJ4tXlrpRkNZaZMWL.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-02-02",
+      "episode_count": 8,
+      "id": 161571,
+      "name": "Season 1",
+      "overview": "Based on \"Killing Floor,\" when retired Military Police Officer Jack Reacher is arrested for a murder he did not commit, he finds himself in the middle of a deadly conspiracy full of dirty cops, shady businessmen and scheming politicians. With nothing but his wits, he must figure out what is happening in Margrave, Georgia.",
+      "poster_path": "/bQnnKBe3VsvXKMoNCaYmRzs1Dup.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2023-12-13",
+      "episode_count": 8,
+      "id": 364732,
+      "name": "Season 2",
+      "overview": "Based on \"Bad Luck and Trouble,\" when members of Reacher's old military unit start turning up dead, Reacher has just one thing on his mind—revenge.",
+      "poster_path": "/jFuH0md41x5mB4qj5344mSmtHrO.jpg",
+      "season_number": 2,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2025-02-20",
+      "episode_count": 8,
+      "id": 432260,
+      "name": "Season 3",
+      "overview": "Based on \"Persuader,\" Reacher hurtles into the dark heart of a vast criminal enterprise when trying to rescue an undercover DEA informant whose time is running out. There he finds a world of secrecy and violence—and confronts some unfinished business from his own past.",
+      "poster_path": "/riO4eCaO5MJzknCkaqmLnRmau8L.jpg",
+      "season_number": 3,
+      "vote_average": 7.4
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Reacher's back.",
+  "type": "Scripted",
+  "vote_average": 8.1,
+  "vote_count": 2211
+}

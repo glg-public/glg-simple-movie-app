@@ -40,7 +40,7 @@ export const MediaDetailView = observer(() => {
           </div>
           <div id="mediaDetail">
             <div>
-              <img src={`https://image.tmdb.org/t/p/w440_and_h660_face/${media.poster}`} alt="poster" />
+              <img src={`https://image.tmdb.org/t/p/w440_and_h660_face${media.poster_path}`} alt="poster" />
             </div>
             <div className="details">
               <div className="title">{media.title || media.name}</div>

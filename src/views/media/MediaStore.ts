@@ -2,7 +2,7 @@ import { action, makeObservable, observable, computed } from "mobx";
 import { Movie } from "../../definitions/Movie";
 
 export class MediaStore {
-  @observable private _media: Movie[];
+  @observable private accessor _media: Movie[];
 
   constructor() {
     makeObservable(this);
