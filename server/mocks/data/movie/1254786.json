@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/sulUXRukzh7WSK34y8mnaUcHo3y.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81246107",
+  "id": 1254786,
+  "imdb_id": "tt2172954",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Life List",
+  "overview": "When her mother sends her on a quest to complete a teenage bucket list, a young woman uncovers family secrets, finds romance — and rediscovers herself.",
+  "popularity": 178.0173,
+  "poster_path": "/5fg98cVo7da7OIK45csdLSd4NaU.jpg",
+  "production_companies": [
+    {
+      "id": 123420,
+      "logo_path": "/hljaOO48h8RAnB6vsVyQ65DFkGP.png",
+      "name": "3dot Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-03-27",
+  "revenue": 0,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "For everyone who's still figuring it out.",
+  "title": "The Life List",
+  "video": false,
+  "vote_average": 6.989,
+  "vote_count": 87
+}

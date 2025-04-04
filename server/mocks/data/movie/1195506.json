@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": "/cP16wq0P6f4in8vg2eTlqLSnaAH.jpg",
+  "belongs_to_collection": null,
+  "budget": 18000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.novocainemovie.com",
+  "id": 1195506,
+  "imdb_id": "tt29603959",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Novocaine",
+  "overview": "When the girl of his dreams is kidnapped, everyman Nate turns his inability to feel pain into an unexpected strength in his fight to get her back.",
+  "popularity": 42.5981,
+  "poster_path": "/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
+  "production_companies": [
+    {
+      "id": 23921,
+      "logo_path": "/simDvqT8y6jhP530ggUMbikvVKc.png",
+      "name": "Circle of Confusion",
+      "origin_country": "US"
+    },
+    {
+      "id": 25577,
+      "logo_path": "/2trboP7Exx3LEQqSHoo1sAmsC1i.png",
+      "name": "Safehouse Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 247121,
+      "logo_path": null,
+      "name": "Infrared Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 216687,
+      "logo_path": null,
+      "name": "Domain Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 7493,
+      "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+      "name": "FilmNation Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 257516,
+      "logo_path": null,
+      "name": "Mediaflix",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-03-12",
+  "revenue": 10500000,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Nathan Caine can't feel pain.",
+  "title": "Novocaine",
+  "video": false,
+  "vote_average": 7,
+  "vote_count": 131
+}

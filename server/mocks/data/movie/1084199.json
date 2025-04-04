@@ -1,0 +1,115 @@
+{
+  "adult": false,
+  "backdrop_path": "/9p2tVEEWw1M92Pt63Vbq7EjBpvk.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.findyourcompanion.com",
+  "id": 1084199,
+  "imdb_id": "tt26584495",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Companion",
+  "overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+  "popularity": 90.6046,
+  "poster_path": "/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+  "production_companies": [
+    {
+      "id": 18609,
+      "logo_path": "/cYhbt3q231mWEkiMn3WPLCcXXl9.png",
+      "name": "BoulderLight Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 829,
+      "logo_path": "/aXqwCvJSCDbTclkxAYfsT1l4Dsa.png",
+      "name": "Vertigo Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 240675,
+      "logo_path": null,
+      "name": "Subconscious",
+      "origin_country": "US"
+    },
+    {
+      "id": 216687,
+      "logo_path": null,
+      "name": "Domain Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-01-22",
+  "revenue": 36499858,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Find someone made just for you.",
+  "title": "Companion",
+  "video": false,
+  "vote_average": 7.073,
+  "vote_count": 929
+}

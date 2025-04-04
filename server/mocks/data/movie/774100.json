@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/aJZ33UhVlInyFENbH4GK4s0k6E0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.disneyplus.com/movies/alexander-and-the-terrible-horrible-no-good-very-bad-road-trip/1zItPvQCDc5n",
+  "id": 774100,
+  "imdb_id": "tt13782222",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Alexander and the Terrible, Horrible, No Good, Very Bad Road Trip",
+  "overview": "Eleven-year-old Alexander and his family embark on a dream Spring Break vacation to Mexico City only to have all their plans go terribly wrong when they discover a cursed idol.",
+  "popularity": 39.9746,
+  "poster_path": "/srOAe7Xe2KN4QZDSoALmE9T8Hh6.jpg",
+  "production_companies": [
+    {
+      "id": 2575,
+      "logo_path": "/9YJrHYlcfHtwtulkFMAies3aFEl.png",
+      "name": "21 Laps Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 6254,
+      "logo_path": "/dHfP8fUyykmTsMXbtXO0kSsYz5E.png",
+      "name": "The Jim Henson Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 2,
+      "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-03-26",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's about to become...  a terrible, horrible, no good, very bad road trip.",
+  "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Road Trip",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 20
+}

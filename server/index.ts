@@ -1,8 +1,13 @@
 import express, { Request, Response } from "express";
 import path from "path";
 import cors from "cors";
+import { server } from "./mocks/node";
 
 import { MediaRouter } from "./controllers/media/MediaRouter";
+
+if (process.env.VITE_MOCK_RESULTS === "true") {
+  server.listen();
+}
 
 const app = express();
 const port = process.env.API_PORT;

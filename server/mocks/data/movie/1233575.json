@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/wi2CEFSyoxoBWdFeVmTeqnlX3qI.jpg",
+  "belongs_to_collection": null,
+  "budget": 50000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.focusfeatures.com/black-bag",
+  "id": 1233575,
+  "imdb_id": "tt30988739",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Black Bag",
+  "overview": "When his beloved wife is suspected of betraying the nation, an intelligence agent faces the ultimate test – loyalty to his marriage or his country.",
+  "popularity": 38.5591,
+  "poster_path": "/9z32e4ziLQs10NYewgO2CqUWjM7.jpg",
+  "production_companies": [
+    {
+      "id": 877,
+      "logo_path": "/n8gjQIrJ77CSFroDCuQbj5cqOaQ.png",
+      "name": "Casey Silver Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-03-12",
+  "revenue": 11766000,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It takes a spy to hunt a spy.",
+  "title": "Black Bag",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 126
+}

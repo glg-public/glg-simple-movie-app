@@ -1,0 +1,379 @@
+{
+  "results": [
+    {
+      "backdrop_path": "/3xN4vNPWBSVDsiiOzL5sB95Sa1J.jpg",
+      "id": 257094,
+      "title": "Holland",
+      "original_title": "Holland",
+      "overview": "Nancy, a teacher whose life with her husband in Holland, Michigan, tumbles into a twisted tale when she and her colleague become suspicious of a secret.",
+      "poster_path": "/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        53,
+        9648
+      ],
+      "popularity": 215.8281,
+      "release_date": "2025-03-27",
+      "video": false,
+      "vote_average": 5.4,
+      "vote_count": 129
+    },
+    {
+      "backdrop_path": "/s4UihKnLx5ACClZzKea8XYZ0HnN.jpg",
+      "id": 1197306,
+      "title": "A Working Man",
+      "original_title": "A Working Man",
+      "overview": "Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.",
+      "poster_path": "/bkbmInoAnEaMH4oxpXAXWwKr8Kd.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "popularity": 309.5097,
+      "release_date": "2025-03-26",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 76
+    },
+    {
+      "backdrop_path": "/9KbUro9uJHUt5xyorQtjWmGfJDE.jpg",
+      "id": 447273,
+      "title": "Snow White",
+      "original_title": "Snow White",
+      "overview": "Princess Snow White flees the castle when the Evil Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young thief named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom in the process...",
+      "poster_path": "/xWWg47tTfparvjK0WJNX4xL8lW2.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        10751,
+        14
+      ],
+      "popularity": 234.9381,
+      "release_date": "2025-03-19",
+      "video": false,
+      "vote_average": 4.5,
+      "vote_count": 446
+    },
+    {
+      "backdrop_path": "/wi2CEFSyoxoBWdFeVmTeqnlX3qI.jpg",
+      "id": 1233575,
+      "title": "Black Bag",
+      "original_title": "Black Bag",
+      "overview": "When his beloved wife is suspected of betraying the nation, an intelligence agent faces the ultimate test – loyalty to his marriage or his country.",
+      "poster_path": "/vcYrQ94y8L2qxEfQgTLVbtmppcn.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        53,
+        9648
+      ],
+      "popularity": 38.5591,
+      "release_date": "2025-03-12",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 134
+    },
+    {
+      "backdrop_path": "/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+      "id": 762509,
+      "title": "Mufasa: The Lion King",
+      "original_title": "Mufasa: The Lion King",
+      "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+      "poster_path": "/lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        10751,
+        16
+      ],
+      "popularity": 217.733,
+      "release_date": "2024-12-18",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 1816
+    },
+    {
+      "backdrop_path": "/tkRDTu9hyWgaBSSzfkYDCZYd1kV.jpg",
+      "id": 974576,
+      "title": "Conclave",
+      "original_title": "Conclave",
+      "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+      "poster_path": "/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        53,
+        9648
+      ],
+      "popularity": 29.44,
+      "release_date": "2024-10-25",
+      "video": false,
+      "vote_average": 7.182,
+      "vote_count": 1744
+    },
+    {
+      "backdrop_path": "/6dC7ULfiutxwEAs7LjWHL2Tc7Zv.jpg",
+      "id": 1124620,
+      "title": "The Monkey",
+      "original_title": "The Monkey",
+      "overview": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.",
+      "poster_path": "/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "popularity": 96.9851,
+      "release_date": "2025-02-14",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 329
+    },
+    {
+      "backdrop_path": "/qUc0Hol3eP74dbW4YyqT6oRLYgT.jpg",
+      "id": 696506,
+      "title": "Mickey 17",
+      "original_title": "Mickey 17",
+      "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.",
+      "poster_path": "/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        35,
+        12
+      ],
+      "popularity": 95.2404,
+      "release_date": "2025-02-28",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 1046
+    },
+    {
+      "backdrop_path": "/fYnEbgoNCxW9kL0IgOgtJb9JTBU.jpg",
+      "id": 426063,
+      "title": "Nosferatu",
+      "original_title": "Nosferatu",
+      "overview": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+      "poster_path": "/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        14,
+        27
+      ],
+      "popularity": 36.3272,
+      "release_date": "2024-12-25",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 2444
+    },
+    {
+      "backdrop_path": "/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+      "id": 157336,
+      "title": "Interstellar",
+      "original_title": "Interstellar",
+      "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+      "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        18,
+        878
+      ],
+      "popularity": 38.9241,
+      "release_date": "2014-11-05",
+      "video": false,
+      "vote_average": 8.453,
+      "vote_count": 36840
+    },
+    {
+      "backdrop_path": "/aJZ33UhVlInyFENbH4GK4s0k6E0.jpg",
+      "id": 774100,
+      "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Road Trip",
+      "original_title": "Alexander and the Terrible, Horrible, No Good, Very Bad Road Trip",
+      "overview": "Eleven-year-old Alexander and his family embark on a dream Spring Break vacation to Mexico City only to have all their plans go terribly wrong when they discover a cursed idol.",
+      "poster_path": "/srOAe7Xe2KN4QZDSoALmE9T8Hh6.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        10751
+      ],
+      "popularity": 39.9746,
+      "release_date": "2025-03-26",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 20
+    },
+    {
+      "backdrop_path": "/sulUXRukzh7WSK34y8mnaUcHo3y.jpg",
+      "id": 1254786,
+      "title": "The Life List",
+      "original_title": "The Life List",
+      "overview": "When her mother sends her on a quest to complete a teenage bucket list, a young woman uncovers family secrets, finds romance — and rediscovers herself.",
+      "poster_path": "/5fg98cVo7da7OIK45csdLSd4NaU.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "popularity": 178.0173,
+      "release_date": "2025-03-27",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 91
+    },
+    {
+      "backdrop_path": "/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+      "id": 950387,
+      "title": "A Minecraft Movie",
+      "original_title": "A Minecraft Movie",
+      "overview": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+      "poster_path": "/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        10751,
+        35,
+        12,
+        14
+      ],
+      "popularity": 120.1178,
+      "release_date": "2025-03-31",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 19
+    },
+    {
+      "backdrop_path": "/9p2tVEEWw1M92Pt63Vbq7EjBpvk.jpg",
+      "id": 1084199,
+      "title": "Companion",
+      "original_title": "Companion",
+      "overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+      "poster_path": "/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        27,
+        878,
+        53
+      ],
+      "popularity": 90.6046,
+      "release_date": "2025-01-22",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 930
+    },
+    {
+      "backdrop_path": "/2n7lYEeIbucsEQCswRcVB6ZYmMP.jpg",
+      "id": 777443,
+      "title": "The Electric State",
+      "original_title": "The Electric State",
+      "overview": "An orphaned teen hits the road with a mysterious robot to find her long-lost brother, teaming up with a smuggler and his wisecracking sidekick.",
+      "poster_path": "/1TZ9Er1xEAKizzKKqYVgJIhNkN2.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "popularity": 96.1715,
+      "release_date": "2025-03-07",
+      "video": false,
+      "vote_average": 6.581,
+      "vote_count": 878
+    },
+    {
+      "backdrop_path": "/lwfbwY5QjUtM3slQoGZUPhuS0eD.jpg",
+      "id": 1233413,
+      "title": "Sinners",
+      "original_title": "Sinners",
+      "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "poster_path": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        53,
+        28
+      ],
+      "popularity": 12.1231,
+      "release_date": "2025-04-16",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+      "id": 950396,
+      "title": "The Gorge",
+      "original_title": "The Gorge",
+      "overview": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
+      "poster_path": "/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        10749,
+        878,
+        53
+      ],
+      "popularity": 127.1959,
+      "release_date": "2025-02-13",
+      "video": false,
+      "vote_average": 7.737,
+      "vote_count": 2220
+    },
+    {
+      "backdrop_path": "/cP16wq0P6f4in8vg2eTlqLSnaAH.jpg",
+      "id": 1195506,
+      "title": "Novocaine",
+      "original_title": "Novocaine",
+      "overview": "When the girl of his dreams is kidnapped, everyman Nate turns his inability to feel pain into an unexpected strength in his fight to get her back.",
+      "poster_path": "/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        35,
+        53
+      ],
+      "popularity": 42.5981,
+      "release_date": "2025-03-12",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 132
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "adult": false,
+  "backdrop_path": "/jJGs55psP46D5rT5kFtGRsBQRz4.jpg",
+  "created_by": [
+    {
+      "id": 1156183,
+      "credit_id": "673612dbe05823bd9c7c4e43",
+      "name": "Ashly Burch",
+      "original_name": "Ashly Burch",
+      "gender": 1,
+      "profile_path": "/iINzNKiIGbjoee6tJKb8xMWog45.jpg"
+    },
+    {
+      "id": 1955782,
+      "credit_id": "673612eaff85881393a0abea",
+      "name": "John Howell Harris",
+      "original_name": "John Howell Harris",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1292256,
+      "credit_id": "673612fc7dfa9751886e205e",
+      "name": "Katie McElhenney",
+      "original_name": "Katie McElhenney",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-03-25",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://tv.apple.com/show/umc.cmc.1pwtcaq7wyb6hdz2ctk1tvtng",
+  "id": 216412,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-03-25",
+  "last_episode_to_air": {
+    "id": 5758058,
+    "name": "The Last Raid",
+    "overview": "Five high school friends in a long-running MQ guild discover a glitch that might break the game—or their friendship.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-03-25",
+    "episode_number": 4,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 28,
+    "season_number": 1,
+    "show_id": 216412,
+    "still_path": "/weUASBf7EKwDu3fVGdSa5X5mjyi.jpg"
+  },
+  "name": "Side Quest",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2552,
+      "logo_path": "/4KAy34EHvRM25Ih8wb82AuGU7zJ.png",
+      "name": "Apple TV+",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 4,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Side Quest",
+  "overview": "Go deeper into the Mythic Quest universe in these four standalone stories. Follow the lives of players, comic book shop owners, touring orchestra musicians, and members of the art department as they search for community, success, and love.",
+  "popularity": 98.4238,
+  "poster_path": "/1DGS6UQ063QLAjLlBAvKY5GcsM4.jpg",
+  "production_companies": [
+    {
+      "id": 28523,
+      "logo_path": "/zzULw9w7d50BHR8fE30PZT3zJ1D.png",
+      "name": "Lionsgate Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 787,
+      "logo_path": "/cCefBs1t7jxtiz3eCxBp9yxrxGx.png",
+      "name": "3 Arts Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 202102,
+      "logo_path": "/8bWIe866WwroX2I7MJP77BTPG5y.png",
+      "name": "Ubisoft Film & Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 109413,
+      "logo_path": null,
+      "name": "RCG Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-03-25",
+      "episode_count": 4,
+      "id": 320218,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/h3mQsoIA3IVhH7lKneCoNWqwgDa.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Same game. New quests.",
+  "type": "Miniseries",
+  "vote_average": 5.455,
+  "vote_count": 11
+}

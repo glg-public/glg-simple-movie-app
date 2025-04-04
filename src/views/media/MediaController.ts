@@ -1,14 +1,14 @@
 import axios, { AxiosInstance } from "axios";
 import { MediaStore } from "./MediaStore";
 
-const { REACT_APP_SERVER } = process.env;
+const { VITE_SERVER } = import.meta.env;
 
 export class MediaController {
   private apiInstance: AxiosInstance;
 
   constructor(private readonly mediaStore: MediaStore) {
     this.apiInstance = axios.create({
-      baseURL: `${REACT_APP_SERVER}/api/media`,
+      baseURL: `${VITE_SERVER}/api/media`,
     });
   }
 

@@ -1,0 +1,293 @@
+{
+  "results": [
+    {
+      "backdrop_path": "/pCT3WLNrBBQeY7DRMw2CD1Pii05.jpg",
+      "id": 249042,
+      "name": "Adolescence",
+      "original_name": "Adolescence",
+      "overview": "When a 13-year-old is accused of the murder of a classmate, his family, therapist and the detective in charge are all left asking: what really happened?",
+      "poster_path": "/tDHWWReefmOOjBCJZUck8cNwssk.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "popularity": 256.6955,
+      "first_air_date": "2025-03-13",
+      "vote_average": 7.895,
+      "vote_count": 525,
+      "origin_country": [
+        "GB",
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
+      "id": 95396,
+      "name": "Severance",
+      "original_name": "Severance",
+      "overview": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+      "poster_path": "/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        9648,
+        10765
+      ],
+      "popularity": 87.2073,
+      "first_air_date": "2022-02-17",
+      "vote_average": 8.4,
+      "vote_count": 1821,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/voKEhzb4ExOmR0WSvQgLTTqRUEu.jpg",
+      "id": 108978,
+      "name": "Reacher",
+      "original_name": "Reacher",
+      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "poster_path": "/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        10759,
+        18,
+        80
+      ],
+      "popularity": 234.0503,
+      "first_air_date": "2022-02-03",
+      "vote_average": 8.1,
+      "vote_count": 2211,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/aSOrTfmIL211gjenXoRzvBoxgYv.jpg",
+      "id": 247767,
+      "name": "The Studio",
+      "original_name": "The Studio",
+      "overview": "Desperate for celebrity approval, the newly appointed head of a movie studio and his executive team at Continental Studios must juggle corporate demands with creative ambitions as they try to keep movies alive and relevant.",
+      "poster_path": "/byC5kuHuqHU2FGFI8grcnrm8JOG.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        35
+      ],
+      "popularity": 127.7894,
+      "first_air_date": "2025-03-25",
+      "vote_average": 7.6,
+      "vote_count": 25,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/rCTLaPwuApDx8vLGjYZ9pRl7zRB.jpg",
+      "id": 111803,
+      "name": "The White Lotus",
+      "original_name": "The White Lotus",
+      "overview": "Follow the exploits of various guests and employees at an exclusive tropical resort over the span of a week as with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.",
+      "poster_path": "/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        18,
+        9648
+      ],
+      "popularity": 118.5278,
+      "first_air_date": "2021-07-11",
+      "vote_average": 7.6,
+      "vote_count": 975,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+      "id": 1399,
+      "name": "Game of Thrones",
+      "original_name": "Game of Thrones",
+      "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+      "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        10765,
+        18,
+        10759
+      ],
+      "popularity": 167.5646,
+      "first_air_date": "2011-04-17",
+      "vote_average": 8.456,
+      "vote_count": 24771,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/7bNw4yfFQOWXZKKMFxFWIbFmsys.jpg",
+      "id": 202555,
+      "name": "Daredevil: Born Again",
+      "original_name": "Daredevil: Born Again",
+      "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+      "poster_path": "/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "popularity": 154.5305,
+      "first_air_date": "2025-03-04",
+      "vote_average": 8.5,
+      "vote_count": 212,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/hIhpno9yQiGjpuguRLuA1Zd2d7O.jpg",
+      "id": 247718,
+      "name": "MobLand",
+      "original_name": "MobLand",
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster_path": "/f7fMjGQD2sK3qBmJRZlvbKvjTr2.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "popularity": 62.0592,
+      "first_air_date": "2025-03-30",
+      "vote_average": 8.8,
+      "vote_count": 21,
+      "origin_country": [
+        "GB",
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/vIioWssbxRtEkIzgj8r0pCWYkYM.jpg",
+      "id": 157744,
+      "name": "1923",
+      "original_name": "1923",
+      "overview": "Follow a new generation of the Dutton family during the early twentieth century when pandemics, historic drought, the end of Prohibition and the Great Depression all plague the mountain west, and the Duttons who call it home.",
+      "poster_path": "/97YimtKZCD0bvHIG4YPgWo3OYar.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        37
+      ],
+      "popularity": 86.9419,
+      "first_air_date": "2022-12-18",
+      "vote_average": 8.2,
+      "vote_count": 492,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/eVGaiNUPhwKyiuWH6LfNa60JFyQ.jpg",
+      "id": 125282,
+      "name": "The Cleaning Lady",
+      "original_name": "The Cleaning Lady",
+      "overview": "A whip-smart doctor comes to the U.S. for a medical treatment to save her ailing son. But when the system fails and pushes her into hiding, she refuses to be beaten down and marginalized. Instead, she becomes a cleaning lady for the mob and starts playing the game by her own rules.",
+      "poster_path": "/aoTQhDKiuKpn599yNxp03wr2ZHu.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "popularity": 38.5495,
+      "first_air_date": "2022-01-03",
+      "vote_average": 7.6,
+      "vote_count": 167,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
+      "id": 100088,
+      "name": "The Last of Us",
+      "original_name": "The Last of Us",
+      "overview": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
+      "poster_path": "/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 43.614,
+      "first_air_date": "2023-01-15",
+      "vote_average": 8.6,
+      "vote_count": 5466,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/6264HK5ZudLUoqsPzGUrFSKHlFW.jpg",
+      "id": 71914,
+      "name": "The Wheel of Time",
+      "original_name": "The Wheel of Time",
+      "overview": "Follow Moiraine, a member of the shadowy and influential all-female organization called the “Aes Sedai” as she embarks on a dangerous, world-spanning journey with five young men and women. Moiraine believes one of them might be the reincarnation of an incredibly powerful individual, whom prophecies say will either save humanity or destroy it.",
+      "poster_path": "/eVm7vI0VTUKYzgpOXCUu9qz3L4E.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        10765,
+        18
+      ],
+      "popularity": 78.6392,
+      "first_air_date": "2021-11-18",
+      "vote_average": 7.7,
+      "vote_count": 2181,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/tPwu4l50aBHgb8NqF25cgaClsox.jpg",
+      "id": 250307,
+      "name": "The Pitt",
+      "original_name": "The Pitt",
+      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+      "poster_path": "/6fMGktEDXMZZPACJ5cWkVQ6TSte.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 26.2849,
+      "first_air_date": "2025-01-09",
+      "vote_average": 8.4,
+      "vote_count": 78,
+      "origin_country": [
+        "US"
+      ]
+    }
+  ]
+}

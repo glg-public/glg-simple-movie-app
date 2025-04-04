@@ -1,0 +1,92 @@
+{
+  "adult": false,
+  "backdrop_path": "/tkRDTu9hyWgaBSSzfkYDCZYd1kV.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.focusfeatures.com/conclave",
+  "id": 974576,
+  "imdb_id": "tt20215234",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Conclave",
+  "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+  "popularity": 29.44,
+  "poster_path": "/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+  "production_companies": [
+    {
+      "id": 7493,
+      "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+      "name": "FilmNation Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 9350,
+      "logo_path": "/xz60JVoUHpOeg1cJbxzMJiwbuL7.png",
+      "name": "Indian Paintbrush",
+      "origin_country": "US"
+    },
+    {
+      "id": 112783,
+      "logo_path": "/g95BBJvKyOawT3sGVXTdDG72Qad.png",
+      "name": "House Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-25",
+  "revenue": 104779967,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    }
+  ],
+  "status": "Released",
+  "tagline": "What happens behind these walls will change everything.",
+  "title": "Conclave",
+  "video": false,
+  "vote_average": 7.182,
+  "vote_count": 1744
+}

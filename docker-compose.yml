@@ -15,8 +15,7 @@ services:
       - "3031:3031"
     command: npm run dev:client
     env_file:
-      - etc/dev.env
-      - etc/dev.local.env
+      - .env.development
     links:
       - backend
     extra_hosts:
@@ -35,7 +34,6 @@ services:
       - "9091:9091"
     command: npm run dev:server
     env_file:
-      - etc/dev.env
-      - etc/dev.local.env
+      - .env.development
     extra_hosts:
       - local.dev.glgresearch.com:host-gateway
